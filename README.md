@@ -1,4 +1,4 @@
-abount lizhi10000_lnmp
+abount lizhi10000_lnmp.sh
 
 it is auto install lnmp enviroment.
 
